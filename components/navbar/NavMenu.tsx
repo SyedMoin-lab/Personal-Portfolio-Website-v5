@@ -160,6 +160,25 @@ export default function NavMenu() {
               />
             </MagneticEffect>
             
+            <MagneticEffect>
+              <NavMenuSocial
+                title="LeetCode"
+                active={active}
+                classes="pr-6"
+                duration={1.8}
+                link="mailto:syedmoinuddin106@gmail.com"
+              />
+            </MagneticEffect>
+
+            <MagneticEffect>
+              <NavMenuSocial
+                title="Resume"
+                active={active}
+                classes="pr-6"
+                duration={1.8}
+                link="mailto:syedmoinuddin106@gmail.com"
+              />
+            </MagneticEffect>
           </div>
           <div className="flex px-[clamp(1.25rem,3vw,2.5rem)]">
             <ThemeSwitcher />
