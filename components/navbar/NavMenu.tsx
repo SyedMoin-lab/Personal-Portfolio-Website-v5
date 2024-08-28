@@ -176,7 +176,7 @@ export default function NavMenu() {
                 active={active}
                 classes="pr-6"
                 duration={1.8}
-                link="mailto:syedmoinuddin106@gmail.com"
+                link="https://drive.google.com/file/d/1loHPgkO7QJIxlJAlXpim_oTkwC4S4d_v/view?usp=sharing"
               />
             </MagneticEffect>
           </div>
