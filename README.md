@@ -1,4 +1,4 @@
-# Personal Portfolio Website aafrzl.my.id
+# Personal Portfolio Website - V5
 
 ## Description
 
@@ -77,7 +77,7 @@ git clone https://github.com/aafrzl/v2.portfolio-aafrzl.my.id.git
 2. Navigate to the repository directory
 
 ```sh
-cd v2.portfolio-aafrzl.my.id
+cd Personal-Portfolio-Website-v5
 ```
 
 3. Install the dependencies
