@@ -71,7 +71,7 @@ NEXT_PUBLIC_REFRESH_TOKEN_SPOTIFY="Your Refresh Token Spotify"
 1. Clone the repository
 
 ```sh
-git clone https://github.com/aafrzl/v2.portfolio-aafrzl.my.id.git
+git clone https://github.com/SyedMoin-lab/Personal-Portfolio-Website-v5.git
 ```
 
 2. Navigate to the repository directory
