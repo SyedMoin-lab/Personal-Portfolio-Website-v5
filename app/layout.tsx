@@ -10,19 +10,19 @@ const font = Work_Sans({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: {
     template: "Syed Moinuddin | %s",
-    default: "Syed | Frontend Developer",
+    default: "Syed Moinuddin | Frontend Developer",
   },
   description:
     "A seasoned frontend web developer with a passion for creating engaging and interactive websites.",
-  metadataBase: new URL("https://aafrzl.my.id"),
+  metadataBase: new URL("https://syed-seven.vercel.app/"),
   openGraph: {
     title: {
       template: "Syed Moinuddin | %s",
-      default: "Syed | Frontend Developer",
+      default: "Syed Moinuddin | Frontend Developer",
     },
     description:
       "A seasoned frontend web developer with a passion for creating engaging and interactive websites.",
-    url: "https://aafrzl.my.id",
+    url: "https://syed-seven.vercel.app/",
     siteName: "Syed Moinuddin",
     images: [
       {
