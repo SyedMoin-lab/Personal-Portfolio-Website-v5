@@ -1,3 +1,4 @@
+import CrispChat from "@/components/CrispChat"
 import { SmoothScrollProvider } from "@/components/providers/SmoothScrollProvider"
 import { ThemeProvider } from "@/components/providers/ThemeProvider"
 import { cn } from "@/lib/utils"
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
   },
   description:
     "A seasoned frontend web developer with a passion for creating engaging and interactive websites.",
-  metadataBase: new URL("https://aafrzl.my.id"),
+  metadataBase: new URL("https://syed-seven.vercel.app/"),
   openGraph: {
     title: {
       template: "Syed Moinuddin | %s",
@@ -22,7 +23,7 @@ export const metadata: Metadata = {
     },
     description:
       "A seasoned frontend web developer with a passion for creating engaging and interactive websites.",
-    url: "https://aafrzl.my.id",
+    url: "https://syed-seven.vercel.app/",
     siteName: "Syed Moinuddin",
     images: [
       {
@@ -106,6 +107,7 @@ export default function RootLayout({
             }}
           >
             {children}
+            <CrispChat />
           </SmoothScrollProvider>
         </ThemeProvider>
       </body>
